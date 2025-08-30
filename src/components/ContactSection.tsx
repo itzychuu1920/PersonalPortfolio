@@ -66,9 +66,9 @@ export function ContactSection() {
               
               <div className="space-y-4">
                 {[
-                  { icon: Mail, label: 'Email', value: 'vaishnavshalikumar49@gmailcom', href: 'vaishnavshalikumar49@gmailcom' },
+                  { icon: Mail, label: 'Email', value: 'vaishnavshalikumar49@gmailcom', href: 'https://mail.google.com/mail/u/1/#inbox?compose=CllgCJlKnTNXmSfJZdjMFxZDTcCbPlMgXwWsMwtdNDnTdRpkHvLhcWrSnkTPQXTKqXwVWfPBBZL' },
                   { icon: Phone, label: 'Phone', value: '8547612760', href: '8547612760' },
-                  { icon: MapPin, label: 'Location', value: 'Pandalam, Pathanamthitta', href: '#' },
+                  { icon: MapPin, label: 'Location', value: 'Pandalam, Pathanamthitta', href: 'https://maps.app.goo.gl/V9wx1L47rvJBPLx2A' },
                 ].map(({ icon: Icon, label, value, href }) => (
                   <motion.a
                     key={label}
