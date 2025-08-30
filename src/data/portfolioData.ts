@@ -22,7 +22,7 @@ export const certificates: Certificate[] = [
     title: 'NPTEL Certificates',
     issuer: 'NPTEL - IIT',
     date: '2024',
-    link: '#',
+    link: 'https://drive.google.com/drive/folders/1ZQqrzy1CUnF_92uQj67d6D6-oOyEAuS5?usp=drive_link',
     image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLn0nBzjTUveLmvLi9iAQ7kfoUTVQZPnt0TA&s'
   },
   {
@@ -30,7 +30,7 @@ export const certificates: Certificate[] = [
     title: 'Internships and Participation Certificates',
     issuer: 'Institutions',
     date: '2023',
-    link: '#',
+    link: 'https://drive.google.com/drive/folders/13M5siO_fTdLQaMkyjxcQPe54nb6C6p37?usp=drive_link',
     image: 'https://t3.ftcdn.net/jpg/00/78/41/82/360_F_78418208_eNjhg8sEW0OTP7ZxbpZ9QApqpgHreKV9.jpg'
   },
   {
@@ -38,7 +38,7 @@ export const certificates: Certificate[] = [
     title: 'Online Certifcates',
     issuer: 'freeCodeCamp',
     date: '2023',
-    link: '#',
+    link: 'https://drive.google.com/drive/folders/1pcf4vP_CprCc9bKkntmx4kEPWFnM2rBm?usp=drive_link',
     image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkg7MJK2miK2fVpnNA3ukGHep9XfgsGh29Sw&s'
   }
 ];
