@@ -36,7 +36,7 @@ export const certificates: Certificate[] = [
   {
     id: '3',
     title: 'Online Certifcates',
-    issuer: 'freeCodeCamp',
+    issuer: 'Online Internships & Others',
     date: '2023',
     link: 'https://drive.google.com/drive/folders/1pcf4vP_CprCc9bKkntmx4kEPWFnM2rBm?usp=drive_link',
     image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkg7MJK2miK2fVpnNA3ukGHep9XfgsGh29Sw&s'
